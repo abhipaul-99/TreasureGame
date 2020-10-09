@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/TreasureGamePage/static/css/main.7033b303.chunk.css",
-    "main.js": "/TreasureGamePage/static/js/main.7b38a47b.chunk.js",
-    "main.js.map": "/TreasureGamePage/static/js/main.7b38a47b.chunk.js.map",
-    "runtime-main.js": "/TreasureGamePage/static/js/runtime-main.a0efc174.js",
-    "runtime-main.js.map": "/TreasureGamePage/static/js/runtime-main.a0efc174.js.map",
-    "static/js/2.4aaeda33.chunk.js": "/TreasureGamePage/static/js/2.4aaeda33.chunk.js",
-    "static/js/2.4aaeda33.chunk.js.map": "/TreasureGamePage/static/js/2.4aaeda33.chunk.js.map",
-    "index.html": "/TreasureGamePage/index.html",
-    "precache-manifest.dc4ac237608efb0876d80a066d9e644d.js": "/TreasureGamePage/precache-manifest.dc4ac237608efb0876d80a066d9e644d.js",
-    "service-worker.js": "/TreasureGamePage/service-worker.js",
-    "static/css/main.7033b303.chunk.css.map": "/TreasureGamePage/static/css/main.7033b303.chunk.css.map",
-    "static/js/2.4aaeda33.chunk.js.LICENSE.txt": "/TreasureGamePage/static/js/2.4aaeda33.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/TreasureGamePage/static/media/logo.5d5d9eef.svg"
+    "main.css": "/TreasureGame/static/css/main.9bf433c9.chunk.css",
+    "main.js": "/TreasureGame/static/js/main.a427d5ad.chunk.js",
+    "main.js.map": "/TreasureGame/static/js/main.a427d5ad.chunk.js.map",
+    "runtime-main.js": "/TreasureGame/static/js/runtime-main.7746ae0d.js",
+    "runtime-main.js.map": "/TreasureGame/static/js/runtime-main.7746ae0d.js.map",
+    "static/js/2.4aaeda33.chunk.js": "/TreasureGame/static/js/2.4aaeda33.chunk.js",
+    "static/js/2.4aaeda33.chunk.js.map": "/TreasureGame/static/js/2.4aaeda33.chunk.js.map",
+    "index.html": "/TreasureGame/index.html",
+    "precache-manifest.ad1f6f56e48965e37eec54f9485aab0c.js": "/TreasureGame/precache-manifest.ad1f6f56e48965e37eec54f9485aab0c.js",
+    "service-worker.js": "/TreasureGame/service-worker.js",
+    "static/css/main.9bf433c9.chunk.css.map": "/TreasureGame/static/css/main.9bf433c9.chunk.css.map",
+    "static/js/2.4aaeda33.chunk.js.LICENSE.txt": "/TreasureGame/static/js/2.4aaeda33.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/TreasureGame/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0efc174.js",
+    "static/js/runtime-main.7746ae0d.js",
     "static/js/2.4aaeda33.chunk.js",
-    "static/css/main.7033b303.chunk.css",
-    "static/js/main.7b38a47b.chunk.js"
+    "static/css/main.9bf433c9.chunk.css",
+    "static/js/main.a427d5ad.chunk.js"
   ]
 }
